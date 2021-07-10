@@ -1,0 +1,1 @@
+# Character-detector-for-extracting-text-from-image
